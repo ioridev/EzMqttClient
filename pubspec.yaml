@@ -10,10 +10,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  mqtt_client: ^7.2.1
+  mqtt_client: ^9.6.5
   path_provider: ^1.6.7
   device_info: ^0.4.2+4
-  uuid: ^2.1.0
+  uuid: ^3.0.6
 
 dev_dependencies:
   flutter_test:
